@@ -22,8 +22,8 @@ function AddCardPage() {
   }, [deckId])
 
 // HANDLING CHANGES TO THE FRONT AND BACK OF THE CARD IN THE FORM //
-  const handleFrontChange = (event) => (event.target.value)
-  const handleBackChange = (event) => (event.target.value)
+  const handleFrontChange = (event) => setCardFront(event.target.value)
+  const handleBackChange = (event) => setCardBack(event.target.value)
 
 /* WEHN THE USER CLICKS THE "Save" BUTTONTHE NEW CARD WILL BE CREATED USING createCard()
 THE TEXT AREA FOR THE FRONT AND BACK OF THE CARD WILL BE CLEARED AND THE PROCESS FOR ADDING
