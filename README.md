@@ -25,7 +25,7 @@ The home screen has the following features:
 When the user clicks on the `Delete` button associated with a particular deck, a warning message is shown. The user can either click
 `OK` or `Cancel`. If the user clicks `OK`, the deck is deleted and will no longer be visible on the Home page.
 
-![delete deck prompt](/screenshots/flashcard-deleteDeck.PNG)
+![delete deck prompt](/screenshots/flashcard-delete-deck.PNG)
 
 ### Study Screen:
 ![study screen](/screenshots/flashcard-studyPage.PNG)
@@ -47,7 +47,7 @@ Once the user reaches the back-side of the last card in the deck, a warning mess
 to restart the deck by clicking on the `OK` button. If the user chooses not to restart studying this deck, the `Cancel` button will take the
 user back to the Home page.
 
-![study screen restart prompt](/screenshots/flashcard-restartPrompt.PNG)
+![study screen restart prompt](/screenshots/flashcard-restart-prompt.PNG)
 
 ### Not Enough Cards:
 If a user tries to study a deck with two or fewer cards in it, the Study screen will display a `Not enough cards` message and an `Add
