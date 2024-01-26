@@ -40,7 +40,7 @@ screen, and finally, the text: `Study`.
 After flipping the card on the Study screen, the backside of the card will now include a `Next` button as well. Clicking on the `Next`
 button will prompt the next card in the deck to be shown, front-side first. Clicking on the `Flip` button will show the front-side of the card again.
 
-![study screen next button](/screenshots/flashcard-nextBtn.PMG)
+![study screen next button](/screenshots/flashcard-nextBtn.PNG)
 
 ### Restart Prompt:
 Once the user reaches the back-side of the last card in the deck, a warning message will appear. The user is offered the opportunity
