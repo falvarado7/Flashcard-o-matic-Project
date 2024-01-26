@@ -13,7 +13,7 @@ teach, as well as for students to use to study the decks their teachers have cre
 
 4. ## Screenshots
 ### Home Page:
-![home](/screenshots/flashcard-home.PNG))
+![home](/screenshots/flashcard-home.PNG)
 The home screen has the following features:
 - A `Create Deck` button that will take the user to the `/decks/new` page when clicked on.
 - Existing decks are shown with the deck name, the number of cards in that deck, and a `View`, `Study`, and `Delete` button.
@@ -21,3 +21,6 @@ The home screen has the following features:
 - Clicking the `Study` button will take the user to the Study screen, `decks/:deckId/study`, where the user can begin to study the cards in that deck.
 - Clicking the `Delete` button will prompt a warning message to appear, and give the user the option to delete the deck or cancel this action.
 
+### Delete Deck Prompt:
+When the user clicks on the `Delete` button associated with a particular deck, a warning message is shown. The user can either click
+`OK` or `Cancel`. If the user clicks `OK`, the deck is deleted and will no longer be visible on the Home page.
