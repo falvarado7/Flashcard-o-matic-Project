@@ -13,7 +13,7 @@ teach, as well as for students to use to study the decks their teachers have cre
 
 4. ## Screenshots
 ### Home Page:
-![home](/screenshots/flashcard-home.png)
+![home](/screenshots/flashcard-home.PNG))
 The home screen has the following features:
 - A `Create Deck` button that will take the user to the `/decks/new` page when clicked on.
 - Existing decks are shown with the deck name, the number of cards in that deck, and a `View`, `Study`, and `Delete` button.
